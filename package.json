@@ -1,0 +1,19 @@
+{
+  "name": "hatch_blog_post",
+  "version": "1.0.0",
+  "description": "a hatchways technial project made for consideration of Canix for hiring purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyerMaker42/hatch_blog_post.git"
+  },
+  "author": "Nicholas J. Kotsos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyerMaker42/hatch_blog_post/issues"
+  },
+  "homepage": "https://github.com/DyerMaker42/hatch_blog_post#readme"
+}

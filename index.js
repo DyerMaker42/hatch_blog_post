@@ -12,4 +12,7 @@ app.listen(3030, () =>{
 //Routes
 //  /api/ping
 
+app.get("/api/ping", (req,res) => {
+  return res.send({success:true})
+});
 //  /api/posts
